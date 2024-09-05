@@ -1,0 +1,7 @@
+torch
+torchvision
+accelerate
+denoising-diffusion-pytorch
+scipy
+seaborn
+tqdm
